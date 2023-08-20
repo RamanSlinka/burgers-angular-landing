@@ -1,5 +1,4 @@
 
-
 .main {
   overflow: hidden;
   background-image: url("../assets/images/main_bg.png");
@@ -8,6 +7,11 @@
 
 .header {
   padding: 40px 0;
+  position: fixed;
+  z-index: 5;
+  background: rgba(25, 20, 17, 0.81);
+  width: 100%;
+
 }
 
 .header .container {
@@ -58,6 +62,7 @@
 }
 
 .main-content {
+  margin-top: 120px;
   padding-top: 103px;
   padding-bottom: 199px;
 }
@@ -202,7 +207,6 @@
 }
 
 
-
 .order {
   background-image: url("../assets/images/order_bg.png");
   background-position: top center;
@@ -246,7 +250,7 @@
 }
 
 .order-form-input {
-  background: linear-gradient(95.61deg, #DA8023 0%,#E2B438 100%);
+  background: linear-gradient(95.61deg, #DA8023 0%, #E2B438 100%);
   width: 344px;
   height: 62px;
   border-radius: 8px;
