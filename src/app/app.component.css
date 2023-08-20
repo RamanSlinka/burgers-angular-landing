@@ -256,6 +256,10 @@
   justify-content: center;
 }
 
+.order-form-input.error {
+  background: red;
+}
+
 .order-form-input input {
   padding: 20px 10px;
   background: #211A16;
