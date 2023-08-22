@@ -1,6 +1,6 @@
 # BurgersLanding
 
-You can look at this mini project here: [BurgersLanding]([https://github.com/angular/](https://ramanslinka.github.io/burgers-landing/)) version 1.0.
+You can look at this mini project here: [BurgersLanding](https://ramanslinka.github.io/burgers-landing/) version 1.0.
 
 
 ## About
