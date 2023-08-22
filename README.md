@@ -10,6 +10,7 @@ It's a mini project - landingPage created with Angular.
 ## Running end-to-end tests
 
 Run 
+![2023-08-22 ](https://github.com/RamanSlinka/burgers-landing/assets/80674763/7d4c34ed-2b7b-47d8-aeb7-e10acfc21de7)
 
 ## Figma
 
