@@ -79,10 +79,10 @@
     <div class="products-title common-title">Choose your burger</div>
     <div class="products-items">
       <div
-        *ngFor=" let product of productsData"
+        *ngFor=" let product of productsDataLocal"
         class="products-item">
         <div class="products-item-image">
-          <img src="{{product.image}}" alt="burger">
+          <img src="../assets/images/{{product.image}}" alt="burger">
         </div>
         <div class="products-item-title">{{product.title}}</div>
         <div class="products-item-text">{{product.text}}
