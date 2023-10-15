@@ -7,36 +7,49 @@
       <nav class="menu">
         <ul class="menu-list">
           <li class="menu-item">
-            <a (click)="scrollTo(why)">Why are we here? </a>
+            <a (click)="scrollTo(why)" i18n>Why are we here? </a>
           </li>
           <li class="menu-item">
-            <a (click)="scrollTo(products)">Burgers Menu </a>
+            <a (click)="scrollTo(products)" i18n>Burgers Menu </a>
           </li>
           <li class="menu-item">
-            <a (click)="scrollTo(order)">Ordering </a>
+            <a (click)="scrollTo(order)" i18n>Ordering </a>
           </li>
         </ul>
 
       </nav>
       <div
         (click)="changeCurrency()"
-        class="currency" title="Change currency" id="change-currency">{{currency}}</div>
+        class="currency" title="Change currency" id="change-currency">{{currency}}
+      </div>
+      <div
+        (click)="changeLanguage()"
+        class="currency language"
+        title="change Language" >{{language}}
+      </div>
+<!--      <ul>-->
+<!--        <li *ngFor="let locale of localesList">-->
+<!--          <a href="/{{locale.code}}">{{locale.label}}</a>-->
+<!--        </li>-->
+<!--      </ul>-->
     </div>
+
+
   </header>
 
   <section class="main-content">
     <div class="container">
       <div class="main-info">
-        <span class="main-small-info">New menu</span>
-        <h1 class="main-title">Burger Cheddar </h1>
-        <p class="main-text">
+        <span class="main-small-info" i18n>New menu</span>
+        <h1 class="main-title" i18n>Burger Cheddar </h1>
+        <p class="main-text" i18n>
           We have updated our menu, hurry to try the seasonal novelties and enjoy the excellent taste of our
           burgers. We are preparing for you the best burgers in town made of selected marble beef.
         </p>
         <div class="main-action">
           <button
             (click)="scrollTo(products)"
-            class="button" id="main-action-button">Look at the menu
+            class="button" id="main-action-button" i18n>Look at the menu
           </button>
         </div>
       </div>
@@ -47,26 +60,26 @@
 
 <section class="why" id="why" #why>
   <div class="container">
-    <div class="why-title common-title">Why are we here?</div>
+    <div class="why-title common-title" i18n>Why are we here?</div>
     <div class="why-items">
       <div class="why-item">
         <img src="./assets/images/burger.png" alt="burger" class="why-item-image">
-        <div class="why-item-title">Author's recipes</div>
-        <div class="why-item-text">Our burgers have a unique combination of flavors and are unlike any other. We
+        <div class="why-item-title" i18n>Author's recipes</div>
+        <div class="why-item-text" i18n>Our burgers have a unique combination of flavors and are unlike any other. We
           carefully select the best ingredients and flavor combinations for our menu.
         </div>
       </div>
       <div class="why-item">
         <img src="./assets/images/meat.png" alt="food%20truck" class="why-item-image">
-        <div class="why-item-title">Marble beef</div>
-        <div class="why-item-text">For our burgers, we use selected 100% marbled beef, which we buy exclusively
+        <div class="why-item-title" i18n>Marble beef</div>
+        <div class="why-item-text" i18n>For our burgers, we use selected 100% marbled beef, which we buy exclusively
           from farmers. We are confident in the quality of our meat.
         </div>
       </div>
       <div class="why-item">
         <img src="./assets/images/food%20truck.png" alt="burger" class="why-item-image">
-        <div class="why-item-title">Fast delivery</div>
-        <div class="why-item-text">We deliver within the Moscow Ring Road in 30 minutes, and if we do not have
+        <div class="why-item-title" i18n>Fast delivery</div>
+        <div class="why-item-text" i18n>We deliver within the Moscow Ring Road in 30 minutes, and if we do not have
           time, delivery is free. We pack our burgers carefully, so they don't get cold on the way.
         </div>
       </div>
@@ -76,7 +89,7 @@
 
 <section class="products" id="products" #products>
   <div class="container">
-    <div class="products-title common-title">Choose your burger</div>
+    <div class="products-title common-title" i18n>Choose your burger</div>
     <div class="products-items">
       <div
         *ngFor=" let product of productsDataLocal"
@@ -90,11 +103,11 @@
         <div class="products-item-extra">
           <div class="products-items-info">
             <div class="products-item-price" >{{product.price}} {{currency}}</div>
-            <div class="products-item-weight">{{product.grams}} gr</div>
+            <div class="products-item-weight" >{{product.grams}} gr</div>
           </div>
           <div class="products-item-action">
             <button class="button product-button" (click)="scrollTo(order, product)">
-              <span>Order</span>
+              <span i18n>Order</span>
               <span>
                                 <svg width="24" height="25" viewBox="0 0 24 25" fill="none"
                                      xmlns="http://www.w3.org/2000/svg">
@@ -115,10 +128,10 @@
 
 <section class="order" id="order" #order>
   <div class="container">
-    <div class="order-title common-title">ordering</div>
+    <div class="order-title common-title" i18n>ordering</div>
     <img src="./assets/images/order_image.png" alt="order_image" class="order-image">
     <div class="order-form">
-      <div class="order-form-text">Fill in all the data and our manager will contact you to confirm the order
+      <div class="order-form-text" i18n>Fill in all the data and our manager will contact you to confirm the order
       </div>
       <div
         [formGroup]="form"
@@ -130,7 +143,10 @@
           <input
             formControlName="order"
             readonly
-            type="text" placeholder="Select a product from the list" id="burger">
+            type="text"
+            placeholder="Select a product from the list"
+            i18n-placeholder
+            id="burger">
 
         </div>
         <div
@@ -139,7 +155,10 @@
 
           <input
             formControlName="name"
-            type="text" placeholder="Your name" id="name">
+            type="text"
+            placeholder="Your name"
+            i18n-placeholder
+            id="name">
 
         </div>
         <div
@@ -148,14 +167,17 @@
 
           <input
             formControlName="phone"
-            type="text" placeholder="Your phone" id="phone">
+            type="text"
+            placeholder="Your phone"
+            i18n-placeholder
+            id="phone">
 
         </div>
 
         <button
           (click)="confirmOrder()"
           [disabled]="!form.valid"
-          class="button" id="order-action">Place an Order
+          class="button" id="order-action" i18n>Place an Order
         </button>
 
       </div>
@@ -168,6 +190,6 @@
     <div class="logo">
       <img src="./assets/images/Logo.png" alt="logo">
     </div>
-    <div class="rights">All rights reserved</div>
+    <div class="rights" i18n>All rights reserved</div>
   </div>
 </footer>

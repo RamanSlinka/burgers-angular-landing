@@ -60,6 +60,9 @@
   margin-left: auto;
   user-select: none;
 }
+.language {
+  width: 75px;
+}
 
 .main-content {
   margin-top: 120px;

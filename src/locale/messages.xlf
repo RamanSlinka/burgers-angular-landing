@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="5801899397356252378" datatype="html">
+        <source>Why are we here? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="123920182320074078" datatype="html">
+        <source>Burgers Menu </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4299628418639220710" datatype="html">
+        <source>Ordering </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6383954158716389094" datatype="html">
+        <source>New menu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7365553878988005911" datatype="html">
+        <source>Burger Cheddar </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9177528872819241704" datatype="html">
+        <source> We have updated our menu, hurry to try the seasonal novelties and enjoy the excellent taste of our burgers. We are preparing for you the best burgers in town made of selected marble beef. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">32,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1051000912548836081" datatype="html">
+        <source>Look at the menu </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">39,40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5374300913527424883" datatype="html">
+        <source>Why are we here?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5990060364862785874" datatype="html">
+        <source>Author&apos;s recipes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7848169623554404397" datatype="html">
+        <source>Our burgers have a unique combination of flavors and are unlike any other. We carefully select the best ingredients and flavor combinations for our menu. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">55,57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2570577843598796721" datatype="html">
+        <source>Marble beef</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2931551267994933892" datatype="html">
+        <source>For our burgers, we use selected 100% marbled beef, which we buy exclusively from farmers. We are confident in the quality of our meat. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">62,64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1490715799665071690" datatype="html">
+        <source>Fast delivery</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5907682605988632222" datatype="html">
+        <source>We deliver within the Moscow Ring Road in 30 minutes, and if we do not have time, delivery is free. We pack our burgers carefully, so they don&apos;t get cold on the way. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">69,71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5333833002868864623" datatype="html">
+        <source>Choose your burger</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+
+
+
+
+      <trans-unit id="4077065763457704052" datatype="html">
+        <source>Burger cheddar &amp; bacon</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4586086598573210370" datatype="html">
+        <source>Crispy beef cutlet, bun, tomato, Cheddar cheese, brisket,
+      red onion, iceberg lettuce, mayonnaise, ketchup, cheese sauce</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">36,37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1759086486106672611" datatype="html">
+        <source>BBQ with chicken</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5740374826883004406" datatype="html">
+        <source>&apos;Sesame brioche bun, chicken cutlet, cheddar cheese, tomato, pickled cucumber,
+      pickled onion, BBQ sauce.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">45,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2266281325275914576" datatype="html">
+        <source>Double beef burger</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="635586293816773975" datatype="html">
+        <source>Two beef patties, cheddar cheese, romaine lettuce, pickled cucumbers, fresh tomato,
+      bacon, red onion, burger sauce, mustard.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">54,55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8034317641325391038" datatype="html">
+        <source>Bavarian burger</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6130747630966270385" datatype="html">
+        <source>Burger bun, beef patty, red onion, cheese, hunting sausage, barbecue sauce, cheese sauce, iceberg lettuce.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4369014731918061740" datatype="html">
+        <source>Bacon cheeseburger</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5501520070059906841" datatype="html">
+        <source>Burger bun, beef cutlet, brisket, tomato, pickled cucumber, cheese, cheese sauce, ketchup, herbs.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7911133261593474339" datatype="html">
+        <source>Indiana burger</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5504426027019508829" datatype="html">
+        <source>Burger bun, chicken cutlet, brisket, egg, pickled cucumber, crispy onion, ketchup, cheese sauce, mustard, greens.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2914279625388594374" datatype="html">
+        <source>Veggie burger</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4850300383418412049" datatype="html">
+        <source>Burger bun, veggie patty, red onion, cheese, fresh tomato, barbecue sauce, cheese sauce, iceberg lettuce.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6503709735731688922" datatype="html">
+        <source>Weepy Joe</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5303090394288703559" datatype="html">
+        <source>Burger bun, beef patty, brisket, tomato, pickled cucumber, red onion, cheese, jalapeno pepper, ketchup, herbs.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="858407047068013950" datatype="html">
+        <source>Double cheeseburger</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8705651340259381990" datatype="html">
+        <source>Burger bun, two beef patties, double cheddar cheese, crispy onion, ketchup, cheese sauce, mustard, herbs.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2037272730652639389" datatype="html">
+        <source>Fresh-burger</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2571668746306165522" datatype="html">
+        <source>Burger bun, beef patty, bacon, cheddar cheese, egg, salami, barbecue sauce, cheese sauce, iceberg lettuce, fresh tomato.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1639618273846366474" datatype="html">
+        <source>Zucchini burger</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1225462614742879537" datatype="html">
+        <source>Burger bun, veggie chickpea patty, grilled zucchini, tomato, pickled cucumber, cheese, mustard sauce, ketchup, herbs.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1221500125646622908" datatype="html">
+        <source>Double Cheddar Burger</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5184417806713076538" datatype="html">
+        <source>Burger bun, beef patty, brisket, red onion, pickled cucumber, tomato, ketchup, double cheddar cheese, mustard, herbs.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3269763352806892172" datatype="html">
+        <source>Black White Light</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3880478043921357121" datatype="html">
+        <source>Black and white burger bun, beef patty, Parmesan cheese, hot sauce.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2819569942692085914" datatype="html">
+        <source>Black White Bacon</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1807693389018150758" datatype="html">
+        <source>Black and white burger bun, beef patty, bacon, Cheddar cheese, iceberg lettuce, sauce, cucumber.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4533554635366229659" datatype="html">
+        <source>Black White Max</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1070885095615207624" datatype="html">
+        <source>Black and white burger bun, beef patty, Cheddar cheese, iceberg lettuce, egg, black sauce.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6300671396400536796" datatype="html">
+        <source>Black Star Light</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1531349136025121237" datatype="html">
+        <source>Black burger bun, chicken cutlet, egg, iceberg lettuce, fresh tomato, cucumber, Black sauce.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">159</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6204033000697836219" datatype="html">
+        <source>Black Star</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">166</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8618561330784063498" datatype="html">
+        <source>Black burger bun, beef patty, Cheddar cheese, iceberg lettuce, fresh tomato, cucumber.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4766503079336237515" datatype="html">
+        <source>Black Star Max</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">174</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7433230244969559282" datatype="html">
+        <source>Black burger bun, beef cutlet, Bacon, Onion, Cheddar cheese, iceberg lettuce, fresh tomato, ketchup.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">175</context>
+        </context-group>
+      </trans-unit>
+
+
+
+      <trans-unit id="220550782947016929" datatype="html">
+        <source>Order</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+
+
+
+      <trans-unit id="1460526244592630450" datatype="html">
+        <source>ordering</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3306326866901745478" datatype="html">
+        <source>Fill in all the data and our manager will contact you to confirm the order </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">121,122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3344205290318253233" datatype="html">
+        <source>Select a product from the list</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8203367621031610680" datatype="html">
+        <source>Your name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4865460888230929643" datatype="html">
+        <source>Your phone</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="162630034193518790" datatype="html">
+        <source>Place an Order </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">167,168</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5033376682160766085" datatype="html">
+        <source>All rights reserved</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">180</context>
+        </context-group>
+      </trans-unit>
+
+
+    </body>
+  </file>
+</xliff>
